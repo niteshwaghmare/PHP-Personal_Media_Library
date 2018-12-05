@@ -1,0 +1,2 @@
+This is Personal Media Library Project in Php
+It containes Php mailer also
